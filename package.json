@@ -1,0 +1,21 @@
+{
+  "name": "happmobi-avaliacao-scraping",
+  "version": "1.0.0",
+  "description": "Avaliaca.xml Web Scraping",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "author": "Happmobi",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
