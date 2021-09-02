@@ -24,5 +24,7 @@ const puppeteer = require('puppeteer');
         if (error) return console.log(error);
     });
 
+    console.log('Avaliacao.xml gerado com sucesso!');
+
     await browser.close();
 })();
